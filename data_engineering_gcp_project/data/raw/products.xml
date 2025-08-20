@@ -1,0 +1,19 @@
+<products>
+    <product>
+        <product_id>1001</product_id>
+        <product_name>Widget</product_name>
+        <category>Tools</category>
+        <price>19.99</price>
+    </product>
+    <product>
+        <product_id>1002</product_id>
+        <product_name>Gizmo</product_name>
+        <category>Gadgets</category>
+        <price>5.49</price>
+    </product>
+    <product>
+        <product_id>1003</product_id>
+        <product_name>Thingamajig</product_name>
+        <category>Accessories</category>
+        <price>9.99</price>
+    </product>
